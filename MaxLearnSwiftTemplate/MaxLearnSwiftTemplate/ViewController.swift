@@ -4,32 +4,11 @@
 //
 //  Created by Max Schneider on 08.02.19.
 //
-/*
- 
-# MaxLearn für Swift
+// MaxLearn für Swift
+//
+// YouTube: https://www.youtube.com/channel/UCoMhmY8UfotbuR1OhATjIvA?view_as=subscriber
+// Instagram: https://www.instagram.com/maxschneider.codes/?hl=de
 
-## #1 App Einführung                Video:
-## #2 Xcode Installieren               Video:
-## #3 Swift Crash Teil 1             Video:        Code:
-## #4 Swift Crash Teil 2
-## #5 Xcode Crashkurs                    Video:
-## #6 Hello World                        Video:
-## #7 Button und Label                    Video:       Code:✅
-## #8 UIAllertController                   Video:        Code:✅
-## #9 Open Extern website                   Video:           Code:✅
-## #10 Text eingabe                        Video:          Code:✅
-## #11 Zwei ViewController                Video:          Code:✅
-## #12 Photos aufnehmen                 Video:          Code:✅
-## #13 Random Function                 Video:          Code:✅
-## #14 UserDefaults                    Video:          Code:✅
-## #15 Table View                     Video:           Code:✅
-## #16 Timer                         Video:            Code:✅
-## #17 Screenshots                   Video:            Code:✅
-## #18 Navigation View               Video:
-## #19 Tab bar View                  Video:
-## #20 Gesture Recognizer            Video:            Code:✅
-
-*/
 
 import UIKit
 
