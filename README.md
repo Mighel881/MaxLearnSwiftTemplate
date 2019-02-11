@@ -1,6 +1,6 @@
 # MaxLearnTemplateSwift
 
-## 11 free Templates for Swift
+## 11 free Code-Templates for Swift
 
 ###            ["Button&Label"
 ###            ,"UIAlertController"
